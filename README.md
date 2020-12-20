@@ -1,3 +1,5 @@
 # URVaje10
 repozitorij za vaje 10
-Klemen
+Klemen n\
+in n\
+Klemen n\
